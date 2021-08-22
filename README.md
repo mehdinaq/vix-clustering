@@ -1,5 +1,5 @@
 # vix-clustering
-### Application of K-Means Clustering to VIX data
+### [Application of K-Means Clustering to VIX data](https://github.com/mehdinaq/vix-clustering/blob/main/vix_clustering.ipynb)
 
 #### Overview
 The VIX is known to be the fear gauge of the stock market, where high spikes in VIX coincide with high volatility and large percent drawdowns in the broader stock market (SPY benchmark).
