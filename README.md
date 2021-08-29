@@ -3,7 +3,7 @@
 
 ### Overview
 The VIX is known to be the fear gauge of the stock market, where high spikes in VIX coincide with high volatility and large percent drawdowns in the broader stock market (SPY benchmark).
-The goal of this analysis is to use K-Means clustering to determine ranges of VIX values to be used as potential cut-off points for markers of market volatility.<br /><br />
+The goal of this analysis is to use K-Means clustering to determine ranges of VIX values to be used as potential markers of market volatility.<br /><br />
 
 ### Data Source
 Use the yfinance library to get VIX and SPY values from 1995 - 2021. Adjusted Close values for SPY are used to exclude the impact of dividends and other external actions unrelated to market performance
