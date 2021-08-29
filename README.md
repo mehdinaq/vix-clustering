@@ -11,7 +11,7 @@ Use the yfinance library to get VIX and SPY values from 1995 - 2021. Adjusted Cl
 ![spy vix history](https://user-images.githubusercontent.com/8281173/130368308-053ca3d1-9174-48e1-8b6c-517ea5dee11f.png)<br /><br />
 
 ### Analysis
-- Use K-Means clustering for different number of clusters, and use Elbow method to subset final choices of clusters based on Sum of Sqaured Deviations
+- Use K-Means clustering for different number of clusters, and use Elbow method to subset final choices of clusters based on Sum of Squared Deviations
 - Plot VIX data based on the final choices of cluster labels to visualize bands of VIX values
 - Determine final choice of clusters by using box plots for the percent change in SPY based on cluster labels; the rationale behind the approach is to choose the number of clusters that provides clear separation in the SPY percent change and variations across clusters<br /><br />
 
