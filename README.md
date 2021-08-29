@@ -17,7 +17,10 @@ Use the yfinance library to get VIX and SPY values from 1995 - 2021. Adjusted Cl
 
 [Detailed Analysis here](https://github.com/mehdinaq/vix-clustering/blob/main/vix_clustering.ipynb)<br /><br />
 
-![Clustered VIX values](https://user-images.githubusercontent.com/8281173/130368840-e2795c7d-a318-4f64-a65c-928897812700.png)
+![vix clusters](https://user-images.githubusercontent.com/8281173/131237853-f133065b-1444-4468-9d9a-6440ecb73eab.png)<br /><br />
+
+![spy pct change by clusters](https://user-images.githubusercontent.com/8281173/131237859-1c1e4998-9d1b-44c6-979c-5f19ed59cd23.png)
+
 
 
   
